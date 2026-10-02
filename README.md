@@ -1,6 +1,6 @@
  Customer Feedback Analysis
 
-An Excel analytics project evaluating 5,000 customer feedback records** to identify sentiment trends and department performance.
+An Excel analytics project evaluating 5,000 customer feedback records to identify sentiment trends and department performance.
 
 Executive Summary
 
